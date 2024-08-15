@@ -1,0 +1,25 @@
+{
+  "name": "trip-planner-api",
+  "version": "1.0.0",
+  "description": "Trip planner API for searching and managing trips",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest --silent"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express-mongo-sanitize": "^2.1.0", 
+    "xss-clean": "^0.1.1", 
+    "helmet": "^4.6.0", 
+    "express-rate-limit": "^5.2.6", 
+    "hpp": "^0.2.3"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.6",
+    "jest": "^27.0.6"
+  }
+}
