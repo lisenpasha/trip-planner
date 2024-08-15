@@ -151,4 +151,33 @@ In addition to the security middlewares mentioned above, the API also includes c
 These custom middlewares are designed to handle specific validation and sanitization tasks for different API operations, making the API more organized and secure.
 
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/b028d8d9-689e-4154-b178-1704dcd993ba">
+
+### API Route Screenshots
+
+In this section, you'll find screenshots demonstrating the usage and responses of each route in the API.
+
+1. **Search Trips**
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/cba78843-b13d-4761-b007-b88f1d1bc8be">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/72598f9d-770e-420b-9edd-b756602d752f">
+
+2. **Save Trip**
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/2a5d92b9-f6af-4ae2-af8b-1e7d148f9933">
+
+3. **List Saved Trips**
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/020e9f80-dbb1-40af-b91a-a208f370697f">
+
+4. **Delete Saved Trip**
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d2e98daf-7743-40ed-8a90-4527b8aa38f4">
+
+5. **[Extra Feature] Trip Type Filtering and Aggregation**
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/cc9d465b-ff25-4f93-9209-27a1125c0e5a">
+
+6. **[Extra Feature] Best Value Trip**
+
+   <img width="800" alt="image" src="https://github.com/user-attachments/assets/e95e2982-8565-471a-a763-7d4bcb597360">
+
