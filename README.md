@@ -149,3 +149,6 @@ In addition to the security middlewares mentioned above, the API also includes c
 
 **Search Trips:** Custom middleware to validate and sanitize the search parameters, ensuring that the correct data is retrieved.
 These custom middlewares are designed to handle specific validation and sanitization tasks for different API operations, making the API more organized and secure.
+
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b028d8d9-689e-4154-b178-1704dcd993ba">
