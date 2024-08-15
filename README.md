@@ -1,6 +1,25 @@
 # Trip Planner API
 
 
+# Table of Contents
+
+1. [Overview](#overview)
+2. [Prerequisites](#prerequisites)
+3. [Getting Started](#getting-started)
+   - [1. Clone the Repository](#1-clone-the-repository)
+   - [2. Setup Environment Variables](#2-setup-environment-variables)
+   - [3. Run the Containers](#3-run-the-containers)
+4. [Available Routes](#available-routes)
+   - [1. Search Trips](#1-search-trips)
+   - [2. Save Trip](#2-save-trip)
+   - [3. List Saved Trips](#3-list-saved-trips)
+   - [4. Delete Saved Trip](#4-delete-saved-trip)
+   - [5. [Extra Feature] Trip Type Filtering and Aggregation](#5-extra-feature-trip-type-filtering-and-aggregation)
+   - [6. [Extra Feature] Best Value Trip](#6-extra-feature-best-value-trip)
+5. [Security and Best Practices](#security-and-best-practices)
+6. [Custom Middlewares](#custom-middlewares)
+7. [API Route Screenshots](#api-route-screenshots)
+
 ### Overview
 
 This project involves creating a Trip Planner API that interacts with a third-party service to search for trips between specified origins and destinations.
